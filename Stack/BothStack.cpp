@@ -62,4 +62,5 @@ int main()
     cout<<s.GetTop(2)<<endl;
     cout<<s.Pop(1)<<endl;
     return 0;
+    
 }
